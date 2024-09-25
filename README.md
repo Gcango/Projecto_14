@@ -1,0 +1,1 @@
+Funções básicas do python e suas bibliotecas, serviram como base para uma Análise simples de dois datasets, que buscou explorar a notas escolares de um conjunto de alunos. Nesta análise os dados foram explorados com intuíto de confirmar rendimentos dos alunos num determinado Curso participado. No decorrer do Bloco de notas, são postas as questões a serem analisadas.
